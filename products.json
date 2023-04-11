@@ -1,10 +1,16 @@
 {
-  "Product":[
+  "ProductInfo": [
     {
-      "ProductId":"0000001",
-      "ProductName":"Product Default Name",
-      "ProductPrice":"90879821"
-      "ProductInfo":"roduct Info Default"
+      "ProductID": "1",
+      "ProductName": "Abcd",
+      "ProductPrice": "12345",
+      "ProductMoreInfo": "MoreInfoAbcd"
+    },
+    {
+      "ProductID": "2",
+      "ProductName": "Abcd",
+      "ProductPrice": "12345",
+      "ProductMoreInfo": "MoreInfoAbcd"
     }
   ]
 }
