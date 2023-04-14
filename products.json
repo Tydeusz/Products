@@ -4,19 +4,22 @@
       "ProductID": "1",
       "ProductName": "Abcd15 Terazzo Bondziorno",
       "ProductPrice": "99912345",
-      "ProductMoreInfo": " Product 1 MoreInfoAbcd"
+      "ProductMoreInfo": " Product 1 MoreInfoAbcd",
+      "NobbNumber": "6549812"
     },
     {
       "ProductID": "2",
       "ProductName": "Abcd",
       "ProductPrice": "5512345",
-      "ProductMoreInfo": " Product 2 MoreInfoAbcd"
+      "ProductMoreInfo": " Product 2 MoreInfoAbcd",
+      "NobbNumber": "6549812"
     },
     {
       "ProductID": "3",
       "ProductName": "Product name Abcd",
       "ProductPrice": "5612345",
-      "ProductMoreInfo": "Product 3 MoreInfoAbcd"
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "NobbNumber": "6549812"
     }
   ]
 }
