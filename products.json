@@ -4,13 +4,19 @@
       "ProductID": "1",
       "ProductName": "Abcd15 Terazzo Bondziorno",
       "ProductPrice": "99912345",
-      "ProductMoreInfo": "MoreInfoAbcd"
+      "ProductMoreInfo": " Product 1 MoreInfoAbcd"
     },
     {
       "ProductID": "2",
       "ProductName": "Abcd",
-      "ProductPrice": "12345",
-      "ProductMoreInfo": "MoreInfoAbcd"
+      "ProductPrice": "5512345",
+      "ProductMoreInfo": " Product 2 MoreInfoAbcd"
+    },
+    {
+      "ProductID": "3",
+      "ProductName": "Product name Abcd",
+      "ProductPrice": "5612345",
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd"
     }
   ]
 }
