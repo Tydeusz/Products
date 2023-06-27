@@ -15,17 +15,17 @@
       "NobbNumber": "6549812"
     },
     {
-      "ProductID": "Façade Option 3",
-      "ProductName": "Product name Abcd",
+      "ProductID": "3",
+      "ProductName": "Façade Option 3",
       "ProductPrice": "3312345",
       "ProductMoreInfo": "Product 3 MoreInfoAbcd",
       "NobbNumber": "6549812"
     }
      {
-      "ProductID": "Façade Option 4",
-      "ProductName": "Product name Abcd",
+      "ProductID": "4",
+      "ProductName": "Façade Option 4",
       "ProductPrice": "3312345",
-      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "ProductMoreInfo": "Product 4 MoreInfoAbcd",
       "NobbNumber": "6549812"
     }
     
