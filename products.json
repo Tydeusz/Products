@@ -20,6 +20,34 @@
       "ProductPrice": "5612345",
       "ProductMoreInfo": "Product 3 MoreInfoAbcd",
       "NobbNumber": "6549812"
+    },
+    {
+      "ProductID": "4010",
+      "ProductName": "Façade Option 1",
+      "ProductPrice": "5612345",
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "NobbNumber": "6549812"
+    },
+    {
+      "ProductID": "4020",
+      "ProductName": "Façade Option 2",
+      "ProductPrice": "5612345",
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "NobbNumber": "6549812"
+    },
+    {
+      "ProductID": "4030",
+      "ProductName": "Façade Option 3",
+      "ProductPrice": "5612345",
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "NobbNumber": "6549812"
+    },
+    {
+      "ProductID": "4040",
+      "ProductName": "Façade Option 4",
+      "ProductPrice": "5612345",
+      "ProductMoreInfo": "Product 3 MoreInfoAbcd",
+      "NobbNumber": "6549812"
     }
   ]
 }
