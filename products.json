@@ -2,35 +2,35 @@
   "ProductInfo": [
     {
       "ProductID": "1",
-      "ProductName": "Abcd15 Terazzo Bondziorno",
+      "ProductName": "1_Abcd15 Terazzo Bondziorno",
       "ProductPrice": "99912345",
       "ProductMoreInfo": " Product 1 MoreInfoAbcd",
       "NobbNumber": "6549812"
     },
     {
       "ProductID": "2",
-      "ProductName": "Abcd",
+      "ProductName": "2_Abcd",
       "ProductPrice": "5512345",
       "ProductMoreInfo": " Product 2 MoreInfoAbcd",
       "NobbNumber": "6549812"
     },
     {
       "ProductID": "3",
-      "ProductName": "Product name Abcd",
+      "ProductName": "3_Product name Abcd",
       "ProductPrice": "5612345",
       "ProductMoreInfo": "Product 3 MoreInfoAbcd",
       "NobbNumber": "6549812"
     },
     {
       "ProductID": "4010",
-      "ProductName": "Façade Option 1",
+      "ProductName": "4010_Façade Option 1",
       "ProductPrice": "5612345",
       "ProductMoreInfo": "Product 3 MoreInfoAbcd",
       "NobbNumber": "6549812"
     },
     {
       "ProductID": "4020",
-      "ProductName": "Façade Option 2",
+      "ProductName": "4021_Façade Option 2",
       "ProductPrice": "5612345",
       "ProductMoreInfo": "Product 3 MoreInfoAbcd",
       "NobbNumber": "6549812"
