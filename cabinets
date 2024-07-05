@@ -1,0 +1,11 @@
+{
+  "CabinetName": "CA12",
+  "BodyWidth": 60,
+  "BodyHeight": 72,
+  "BodyDepth": 56,
+  "BodyType": "A",
+  "FrontWidth": 60,
+  "FrontHeight": 72,
+  "FrontDepth": 2,
+  "FrontType": "A"
+}
