@@ -2,7 +2,7 @@
   "CabinetName":"CA12",
   "BodyWidth":60,
   "BodyHeight":72,
-  "BodyDepth":56,
+  "BodyDepth":30,
   "BodyType": "A",
   "HasFront":True,
   "FrontWidth":60,
