@@ -4,6 +4,7 @@
   "BodyHeight":72,
   "BodyDepth":56,
   "BodyType": "A",
+  "HasFront":True,
   "FrontWidth":60,
   "FrontHeight":72,
   "FrontDepth":2,
